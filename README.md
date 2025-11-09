@@ -1,70 +1,69 @@
-# 👋 Hi, I'm Barbara Tarantino  
+# Barbara Tarantino, Ph.D.
 
-🎓 **Postdoctoral Researcher in Causal AI & Biomedical Machine Learning**  
-📍 University of Pavia – Department of Brain and Behavioural Sciences  
-
----
-
-## 🧠 About Me
-I am a researcher in **Causal AI, Machine Learning, and Computational Modeling** applied to **biomedical and genomic data**.  
-My work bridges **Structural Equation Modeling (SEM)**, **Deep Learning**, and **Causal Inference** to design **interpretable and safe AI frameworks**.  
-
-I develop tools and methods that combine the causal interpretability of SEMs with the representational power of neural networks — enabling more transparent and biologically grounded AI systems.  
+**Postdoctoral Researcher – Causal AI and Biomedical Machine Learning**  
+University of Pavia – Department of Brain and Behavioural Sciences  
 
 ---
 
-## 🔬 Research & Development Highlights
-- 🧩 Developer of [**SEMgraph**](https://cran.r-project.org/package=SEMgraph): Causal network analysis through Structural Equation Modeling.  
-- 🧬 Creator of [**SEMdeep**](https://cran.r-project.org/package=SEMdeep): Hybrid Deep Neural Networks and SEMs for biomarker discovery.  
-- ⚙️ Working on **CAuSe-AI**, a framework for *Causal-Aware Safe Evaluation* of AI models.  
-- 🧠 Research focus: *causal structure learning, hybrid deep–causal models, and SafeAI evaluation metrics.*  
-- 🧬 Applications: *genomic biomarker discovery, neural connectivity, and translational biomedical data science.*  
+## Profile
+I am a researcher specializing in **Causal Artificial Intelligence**, **Machine Learning**, and **Computational Modeling** for **biomedical and genomic data**.  
+My work aims to integrate **causal inference** and **deep learning** within unified frameworks that enhance interpretability, reproducibility, and trust in AI-driven biomedical research.  
+
+I develop methods and software that bridge the **transparency of Structural Equation Modeling (SEM)** with the **representation learning capabilities of neural networks**, providing a causal perspective on model behavior and biological interpretation.  
 
 ---
 
-## 🚀 Featured Projects
+## Research Highlights
+- **Developer of [SEMgraph](https://cran.r-project.org/package=SEMgraph)** – Structural Equation Modeling for causal network reconstruction in biological systems.  
+- **Author of [SEMdeep](https://cran.r-project.org/package=SEMdeep)** – Hybrid deep learning–SEM framework for multimodal biomarker discovery.  
+- **Founder of CAuSe-AI (in development)** – A methodological framework for *Causal-Aware and Safe Evaluation* of AI models.  
+- **Research interests:** causal structure learning, hybrid deep–causal architectures, causal explainability, and SafeAI metrics.  
+- **Applications:** genomic data integration, brain connectivity modeling, and translational biomedical analytics.  
+
+---
+
+## Selected Projects
 
 | Project | Description | Link |
 |:--------|:-------------|:------|
-| **SEMgraph** | Structural Equation Modeling for causal network analysis in biological systems | [CRAN](https://cran.r-project.org/package=SEMgraph) |
-| **SEMdeep** | Deep Neural Networks integrated with SEMs for biomarker discovery | [CRAN](https://cran.r-project.org/package=SEMdeep) |
-| **CAuSe-AI (in progress)** | Framework for *Causal-Aware Safe Evaluation of AI models* | coming soon |
-| **AI for Genomic Data Science (Course)** | 6-day course combining Python, ML, DL, CV, and LLMs for genomic data | [Repository](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science) |
+| **SEMgraph** | Structural Equation Modeling for causal network inference and validation | [CRAN](https://cran.r-project.org/package=SEMgraph) |
+| **SEMdeep** | Deep Neural Networks integrated with SEMs for multimodal biomarker discovery | [CRAN](https://cran.r-project.org/package=SEMdeep) |
+| **CAuSe-AI (in progress)** | Framework for the causal and safety evaluation of AI systems | coming soon |
+| **AI for Genomic Data Science (Course)** | Master’s-level module on AI, Machine Learning, and Deep Learning for biomedical data | [Repository](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science) |
 
 ---
 
-## 💡 Research Themes
+## Research Areas
 
-Causal Modeling • Structural Equation Models • Deep Neural Networks  
-Machine Learning for Biomedical Data • SafeAI Metrics • Explainability  
+Causal Inference • Structural Equation Models • Deep Neural Networks  
+Machine Learning for Biomedical Data • Safe and Explainable AI  
 Multimodal Genomic Integration • Translational Data Science  
 
 ---
 
-## 🧑‍🏫 Teaching
+## Teaching and Mentorship
+I design and teach graduate-level courses in **AI and Machine Learning for Genomic Data Science**, combining theoretical foundations with reproducible, hands-on tutorials.  
+The curriculum covers the following core areas:
 
-I teach the **AI & Machine Learning for Genomic Data Science** course —  
-a 6-day intensive module designed for graduate students in biomedical data science.  
-It combines conceptual lectures, hands-on Colab tutorials, and reproducible workflows across topics such as:
-
-1. Python Foundations & AI in Medicine  
-2. Core Machine Learning for Genomics  
+1. Python for Data Science and AI in Medicine  
+2. Machine Learning Algorithms for Genomic Data  
 3. Deep Learning with PyTorch  
-4. Computer Vision in Medicine  
-5. Large Language Models & Clinical Text  
-6. Capstone Project on Reproducibility and Causal Evaluation  
+4. Computer Vision for Medical Imaging  
+5. Large Language Models for Clinical Text  
+6. Reproducibility and Causal Evaluation in AI Research  
 
-All slides and interactive notebooks are available in the  
-📘 [**AI-for-Genomic-Data-Science Repository**](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science).
+All teaching materials (slides and Colab notebooks) are available in the  
+[AI-for-Genomic-Data-Science repository](https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science).
 
 ---
 
-## 📫 Contact & Profiles
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-barbara--t-blue?logo=linkedin)](https://www.linkedin.com/in/barbara-t)  
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6384--2561-green?logo=orcid)](https://orcid.org/0000-0001-6384-2561)  
+[LinkedIn](https://www.linkedin.com/in/barbara-t)  
+[ORCID](https://orcid.org/0000-0001-6384-2561)  
 📧 barbara.tarantino@unipv.it  
 
 ---
 
-⭐ *If you find my research, code, or teaching materials useful, please consider citing or starring the related repositories — it helps others discover the work too!*
+*If you reference or reuse my research tools or teaching materials, please cite the related work or repository.*
+
