@@ -15,8 +15,8 @@ I develop methods and software that bridge the **transparency of Structural Equa
 
 ## Research Highlights
 - **Developer of [SEMgraph](https://cran.r-project.org/package=SEMgraph)** – Structural Equation Modeling for causal network reconstruction in biological systems.  
-- **Author of [SEMdeep](https://cran.r-project.org/package=SEMdeep)** – Hybrid deep learning–SEM framework for multimodal biomarker discovery.  
-- **Founder of CAuSe-AI (in development)** – A methodological framework for *Causal-Aware and Safe Evaluation* of AI models.  
+- **Developer of [SEMdeep](https://cran.r-project.org/package=SEMdeep)** – Hybrid deep learning–SEM framework for multimodal biomarker discovery.  
+- **Developer of CAuSe-AI (in development)** – A methodological framework for *Causal-Aware and Safe Evaluation* of AI models.  
 - **Research interests:** causal structure learning, hybrid deep–causal architectures, causal explainability, and SafeAI metrics.  
 - **Applications:** genomic data integration, brain connectivity modeling, and translational biomedical analytics.  
 
