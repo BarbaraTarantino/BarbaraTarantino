@@ -1,7 +1,7 @@
 # Barbara Tarantino, Ph.D.
 
-Postdoctoral Researcher – Causal AI and Biomedical Machine Learning  
-University of Pavia – STAT-MAT Department 
+Postdoctoral Researcher in Causal Machine Learning and Computational Biology  
+Department of Statistics and Applied Mathematics, University of Pavia
 
 ---
 
@@ -9,7 +9,7 @@ University of Pavia – STAT-MAT Department
 
 I am a researcher working at the intersection of **causal inference**, **machine learning**, and **computational biology**.
 
-My research focuses on developing methodological frameworks that combine **structural causal modeling** with **deep learning** to improve the interpretability, robustness, and scientific validity of AI models applied to biomedical and genomic data.
+My research focuses on developing methodological frameworks that combine structural causal modeling with deep learning to improve the interpretability, robustness, and scientific validity of AI models applied to biological systems.
 
 In particular, I develop methods for:
 
@@ -34,7 +34,7 @@ CRAN: https://cran.r-project.org/package=SEMdeep
 Intervention-based framework for evaluating machine learning models through controlled structural perturbations.
 
 Current application:  
-- transcription factor binding prediction from genomic sequences
+- transcription factor binding prediction from DNA sequences
 
 Repository:  
 https://github.com/BarbaraTarantino/isaac-xai-tf
