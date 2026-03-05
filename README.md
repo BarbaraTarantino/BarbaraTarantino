@@ -55,7 +55,7 @@ https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science
 ## Research Areas
 
 Causal Inference • Structural Equation Modeling • Hybrid Deep–Causal Architectures  
-Machine Learning for Genomic and Biomedical Data  
+Machine Learning for Molecular and Cellular Systems  
 Mechanistic and Structural Evaluation of AI Models
 
 ---
