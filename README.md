@@ -1,7 +1,7 @@
 # Barbara Tarantino, Ph.D.
 
 Postdoctoral Researcher – Causal AI and Biomedical Machine Learning  
-University of Pavia – Department of Brain and Behavioural Sciences
+University of Pavia – STAT-MAT Department 
 
 ---
 
@@ -24,12 +24,8 @@ In particular, I develop methods for:
 
 ### Structural Causal Modeling
 
-**SEMgraph**  
-Structural Equation Modeling framework for causal network reconstruction and validation in biological systems.  
-CRAN: https://cran.r-project.org/package=SEMgraph
-
 **SEMdeep**  
-Hybrid framework integrating deep neural networks with Structural Equation Models for multimodal biomarker discovery.  
+Hybrid framework integrating deep neural networks with Structural Equation Models.  
 CRAN: https://cran.r-project.org/package=SEMdeep
 
 ### Structural Evaluation of AI Models
@@ -56,9 +52,9 @@ https://github.com/BarbaraTarantino/AI-for-Genomic-Data-Science
 
 ## Research Areas
 
-Causal Inference • Structural Equation Models • Deep Learning  
-Computational Biology • Machine Learning for Genomic Data  
-Explainable and Reliable AI for Biomedical Research
+Causal Inference • Structural Equation Modeling • Hybrid Deep–Causal Architectures  
+Machine Learning for Genomic and Biomedical Data  
+Mechanistic and Structural Evaluation of AI Models
 
 ---
 
