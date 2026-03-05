@@ -31,7 +31,7 @@ CRAN: https://cran.r-project.org/package=SEMdeep
 ### Structural Evaluation of AI Models
 
 **ISAAC (in development)**  
-Intervention-based framework for evaluating machine learning models through controlled structural perturbations.
+Intervention-based framework for evaluating machine learning models through controlled perturbations of biological inputs.
 
 Current application:  
 - transcription factor binding prediction from DNA sequences
