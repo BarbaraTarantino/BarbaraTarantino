@@ -1,5 +1,7 @@
 # Barbara Tarantino, Ph.D.
 
+Computational Biology • Causal Machine Learning • Structural Evaluation of AI Models
+
 Postdoctoral Researcher in Causal Machine Learning and Computational Biology  
 Department of Statistics and Applied Mathematics, University of Pavia
 
@@ -20,7 +22,7 @@ In particular, I develop methods for:
 
 ---
 
-## Research Projects
+## Research Software
 
 ### Structural Causal Modeling
 
